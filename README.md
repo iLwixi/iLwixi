@@ -1,13 +1,14 @@
 <div align="center">
-  <img src="avatar_link" alt="Avatar" width="150" height="150" />
+  <img src="avatar_link" alt="![image](https://github.com/user-attachments/assets/3f5cff45-fb77-459b-8687-fd2e3b4338eb)
+" width="150" height="150" />
   <h1> :wave: Hi, I’m @Zypheris </h1>
 
   
-  <h1> :grey_question: About </h1>
+  <h1>  About </h1>
   <p> :label: My name is Yusuf </p>
-  <p> :nerd: I am a Software developer </p>
-  <p> :flag_white: I live in Turkey </p>
-  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript">Javascript</a> </p>
+  <p>  I am a Software developer </p>
+  <p>  I live in Turkey </p>
+  <p>  Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript">Javascript</a> </p>
 
   <h1> ✍ Technologies I use </h1>
   <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
